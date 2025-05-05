@@ -1,0 +1,27 @@
+body {
+    font-family:century gothic;
+}
+
+header{
+    background-image: linear-gradient(#20B2AA,#00BFFF,#008B8B);
+    height: 30px;
+    padding: 20px;
+    text-align: center;
+}
+header a{
+    color: black;
+    text-decoration: none;
+    border: 5px solid #6B8E23;
+    border-radius: 10px;
+    font-size: 20px;
+    padding: 10px;
+}
+
+main{
+    background-image: linear-gradient(to right top,#B22222,#FFA07A,#DC143C);
+}
+
+main h1{
+    text-align: center;
+    text-shadow: 5px 5px #AFEEEE;
+}
